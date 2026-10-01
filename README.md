@@ -170,24 +170,3 @@ You can test all roles immediately without setting up accounts:
 | **Resident (Tenant)** | Alexander Cruz (Unit 101) | Rent payment, receipt history, duration of stay, digital lease, direct chat |
 
 > 💡 **Quick Switcher**: Inside the Owner Dashboard or Tenant Portal, use the bottom-left profile switcher to jump between roles instantly.
-
----
-
-## 📍 Location & Property Details
-
-- **Property**: HomeHub Residences
-- **Address**: Acacia Ave., Cavite, Philippines
-- **Capacity**: 12 Residential Apartment Units
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
-## 👨‍💻 Author & Acknowledgements
-
-- **Developer**: HomeHub Engineering Team
-- **Special Thanks**: Original HomeHub PHP platform for heritage iconography and architectural workflows.
